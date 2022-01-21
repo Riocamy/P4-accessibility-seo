@@ -193,9 +193,10 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
+/* Modification de la couleur du block citation*/
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: black;
 }
 
 .d-bloc .panel button:hover,
